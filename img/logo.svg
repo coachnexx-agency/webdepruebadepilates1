@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200"><g transform="translate(10,20) scale(1.6)"><g fill="none" stroke="#1d1a17" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M50 18 C40 32 40 52 50 66 C60 52 60 32 50 18Z"/>
+<path d="M50 66 C40 56 30 42 22 34 C20 48 30 62 50 66Z"/>
+<path d="M50 66 C60 56 70 42 78 34 C80 48 70 62 50 66Z"/>
+<path d="M50 66 C36 66 20 60 10 50 C16 64 32 72 50 72 C68 72 84 64 90 50 C80 60 64 66 50 66Z"/></g></g>
+<text x="190" y="92" font-family="Georgia, serif" font-size="56" fill="#1d1a17" font-style="italic">Método</text>
+<text x="190" y="158" font-family="Georgia, serif" font-size="62" letter-spacing="10" fill="#1d1a17">GOLDEN</text></svg>

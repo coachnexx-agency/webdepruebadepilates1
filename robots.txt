@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.claude/
+
+Sitemap: https://coachnexx-agency.github.io/webdepruebadepilates1/sitemap.xml
