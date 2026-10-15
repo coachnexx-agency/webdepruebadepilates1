@@ -305,12 +305,6 @@ button { font: inherit; color: inherit; cursor: pointer; }
   padding-top: calc(var(--header-h) + 40px);
   padding-bottom: clamp(56px, 10vh, 110px);
 }
-.hero-pain {
-  margin-bottom: 1rem;
-  font-size: clamp(1rem, 2.6vw, 1.15rem);
-  font-weight: 500;
-  color: var(--amber-soft);
-}
 .hero-title {
   max-width: 14ch;
   margin: 0;
