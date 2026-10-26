@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /.claude/
 
-Sitemap: https://coachnexx-agency.github.io/webdepruebadepilates1/sitemap.xml
+Sitemap: https://metodo-golden.vercel.app/sitemap.xml
